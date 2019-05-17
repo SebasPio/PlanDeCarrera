@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC", "PDC\PDC.csproj", "{92DDF267-20B6-4D52-9906-C90311F2FCDC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDCController", "PDC\PDCController.csproj", "{92DDF267-20B6-4D52-9906-C90311F2FCDC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC.Tests", "PDC.Tests\PDC.Tests.csproj", "{92F9D932-499E-4010-A1FD-5B630A60EF47}"
 EndProject

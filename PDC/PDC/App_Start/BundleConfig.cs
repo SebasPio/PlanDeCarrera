@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace PDC
+namespace PDCController
 {
     public class BundleConfig
     {

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PDC;
-using PDC.Controllers;
+using PDCController;
+using PDCController.Controllers;
 
-namespace PDC.Tests.Controllers
+namespace PDCController.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

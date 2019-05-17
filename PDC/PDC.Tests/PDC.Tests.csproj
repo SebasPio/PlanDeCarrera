@@ -99,9 +99,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PDC\PDC.csproj">
+    <ProjectReference Include="..\PDC\PDCController.csproj">
       <Project>{92DDF267-20B6-4D52-9906-C90311F2FCDC}</Project>
-      <Name>PDC</Name>
+      <Name>PDCController</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
